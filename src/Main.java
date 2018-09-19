@@ -19,16 +19,16 @@ public class Main
             {-10, -11, -7, -2, +3, +9, +12, +11, +6, +0, -3, -7},
             {-2, -3, -1, +2, +6, +10, +12, +12, +9, +5, +2, +1}};
 
-    private static final String[] months = {
+    private static final String[] monthDescriptions = {
             "1st: Hammer (Deepwinter)", "2nd: Alturiak (The Claws of the Cold", "3rd: Ches (The Claw of the Sunsets",
             "4th: Tarsakh (The Claw of the Storms)", "5th: Mirtul (The Melting)", "6th: Kythorn (The Time of Flowers",
             "7th: Flamerule (Summertide)", "8th: Eleasias (Highsun)", "9th: Eleint (The Fading)",
             "10th: Marpennoth (Leafall)", "11th: Uktar (The Rotting)", "12th: Nightal (The Drawing Down)"};
 
-    private static final String[] regions = {"1: Near Spine of the World", "2: Subarctic", "3: Temperate"};
+    private static final String[] regionDescriptions = {"1: Near Spine of the World", "2: Subarctic", "3: Temperate"};
 
     //JSON format: {region: {year: {month: {"temperature": int[30], "wind": int[30], "precipitation": int[30]}}}}
-    private static JSONObject _jsonObject;
+    private static JSONObject _climateObj;
 
     public static void main(String[] args)
     {
@@ -39,42 +39,61 @@ public class Main
         System.out.println("Enter the current year: ");
         int year = scanner.nextInt();
 
+        System.out.println(_climateObj.isEmpty());
+        System.out.println(_climateObj.containsKey("" + year));
+        if (_climateObj.isEmpty() || !_climateObj.containsKey("" + year))
+            generateWeather(year);
 
-        for (String month : months) System.out.println(month);
+        for (String month : monthDescriptions) System.out.println(month);
         System.out.println("Enter the current month: ");
         int monthIndex = scanner.nextInt() - 1;
 
-        for (String region : regions) System.out.println(region);
+        for (String region : regionDescriptions) System.out.println(region);
 
         System.out.println("\nEnter current region:");
         int regionIndex = scanner.nextInt() - 1;
 
-        //TODO look in JSON if weather already generated for these specifications
 
-        generateWeather(monthIndex, regionIndex);
     }
 
-    private static void generateWeather(int monthIndex, int regionIndex)
+    private static void generateWeather(int year)
     {
-        int[] temperatures = new int[30];
-        int[] windStrengths = new int[30];
-        int[] precipitationStrengths = new int[30];
-        int[] saveDCs = new int[30];
 
-        for (int i = 0; i < 30; i++)
+        JSONObject yearObj = new JSONObject();
+
+        for (int month = 0; month < 12; month++)
         {
-            temperatures[i] = rollDie(8) + lowestTemps[regionIndex][monthIndex];
-            windStrengths[i] = parseWeatherD20(rollDie(20));
-            precipitationStrengths[i] = parseWeatherD20(rollDie(20));
+            JSONObject monthObj = new JSONObject();
 
-            saveDCs[i] = 5 - temperatures[i] + 3 * (windStrengths[i] + precipitationStrengths[i]);
+            for (int day = 0; day < 30; day++)
+            {
+                JSONObject dayObj = new JSONObject();
+
+                for (int region = 0; region < 3; region++)
+                {
+                    int temperature = rollDie(8) + lowestTemps[region][month];
+                    int windStrength = parseWeatherD20(rollDie(20));
+                    int precipitationStrength = parseWeatherD20(rollDie(20));
+
+                    int saveDC = 5 - temperature + 3 * (windStrength + precipitationStrength);
+
+                    JSONObject regionObj = new JSONObject();
+
+                    regionObj.put("temperature", temperature);
+                    regionObj.put("wind", windStrength);
+                    regionObj.put("precipitation", precipitationStrength);
+                    regionObj.put("saveDC", saveDC);
+
+                    dayObj.put(regionDescriptions[region], regionObj);
+                }
+
+                monthObj.put(day, dayObj);
+            }
+
+            yearObj.put(month, monthObj);
         }
-
-        _jsonObject.put("temperature", temperatures);
-        _jsonObject.put("wind", windStrengths);
-        _jsonObject.put("precipitation", precipitationStrengths);
-
-        //TODO update JSON file
+        _climateObj.put(year, yearObj);
+        writeJSON(_climateObj);
     }
 
     private static int parseWeatherD20(int roll)
@@ -92,10 +111,9 @@ public class Main
     private static void parseJSONFile()
     {
         JSONParser parser = new JSONParser();
-        JSONObject obj = new JSONObject();
         try
         {
-            _jsonObject = (JSONObject) parser.parse(new FileReader("generated_climate.json"));
+            _climateObj = (JSONObject) parser.parse(new FileReader("generated_climate.json"));
         } catch (Exception e)
         {
             System.out.println(e);
@@ -110,8 +128,7 @@ public class Main
         else
         {
             JSONObject obj = new JSONObject();
-            for (String region : regions) obj.put(region, new JSONObject());
-
+            _climateObj = obj;
             writeJSON(obj);
         }
     }
