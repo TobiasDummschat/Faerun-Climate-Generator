@@ -4,6 +4,9 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 import java.util.Scanner;
 
 public class Main
@@ -61,17 +64,17 @@ public class Main
 
         JsonObject yearObj = new JsonObject();
 
-        for (int month = 0; month < 12; month++)
+        for (int month = 1; month <= 12; month++)
         {
             JsonObject monthObj = new JsonObject();
 
-            for (int day = 0; day < 30; day++)
+            for (int day = 1; day <= 30; day++)
             {
                 JsonObject dayObj = new JsonObject();
 
-                for (int region = 0; region < 3; region++)
+                for (int region = 1; region <= 3; region++)
                 {
-                    int temperature = rollDie(8) + LOWEST_TEMPS[region][month];
+                    int temperature = rollDie(8) + LOWEST_TEMPS[region - 1][month - 1];
                     int windStrength = parseWeatherD20(rollDie(20));
                     int precipitationStrength = parseWeatherD20(rollDie(20));
 
@@ -84,7 +87,7 @@ public class Main
                     regionObj.addProperty("precipitation", precipitationStrength);
                     regionObj.addProperty("saveDC", saveDC);
 
-                    dayObj.add(REGION_DESCRIPTIONS[region], regionObj);
+                    dayObj.add(REGION_DESCRIPTIONS[region - 1], regionObj);
                 }
 
                 monthObj.add("" + day, dayObj);
@@ -92,8 +95,9 @@ public class Main
 
             yearObj.add("" + month, monthObj);
         }
+
         climateObj.add("" + year, yearObj);
-        writeJson(climateObj);
+        updateJson(climateObj);
     }
 
     private static int parseWeatherD20(int roll)
@@ -121,10 +125,31 @@ public class Main
             climateObj = parseJsonFile(JSON_PATH);
         } catch (FileNotFoundException ignored)
         {
-            JsonObject obj = new JsonObject();
-            climateObj = obj;
-            writeJson(obj);
+            updateJson(new JsonObject());
         }
+    }
+
+    private static void sortYears()
+    {
+        JsonObject sortedClimateObj = new JsonObject();
+
+        List<String> sortedKeyList = new ArrayList<>(climateObj.keySet());
+        Collections.sort(sortedKeyList);
+
+        sortedKeyList.forEach(key -> sortedClimateObj.add(key, climateObj.get(key)));
+        climateObj = sortedClimateObj;
+    }
+
+    /**
+     * sets obj as new climateObj, sorts it by years, and writes it to JSON_PATH
+     *
+     * @param obj the new climateObj. Will be sorted.
+     */
+    private static void updateJson(JsonObject obj)
+    {
+        climateObj = obj;
+        sortYears();
+        writeJson(climateObj);
     }
 
     private static void writeJson(JsonElement obj)
