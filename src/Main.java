@@ -88,7 +88,7 @@ public class Main
                     int windStrength = parseWeatherD20(rollDie(20));
                     int precipitationStrength = parseWeatherD20(rollDie(20));
 
-                    int saveDC = 5 - temperature + 3 * (windStrength + precipitationStrength);
+                    int saveDC = Math.max(0, 5 - temperature + 3 * (windStrength + precipitationStrength));
 
                     JsonObject dayObj = new JsonObject();
 
