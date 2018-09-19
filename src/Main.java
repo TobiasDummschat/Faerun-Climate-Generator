@@ -56,16 +56,37 @@ public class Main
         System.out.println("\nEnter current region:");
         String region = REGION_DESCRIPTIONS[scanner.nextInt() - 1];
 
+        System.out.println("\nEnter DC-counting-threshold: ");
+        int threshold = scanner.nextInt();
+
         //TODO actually output the wanted information
 
-        climateObj.getAsJsonObject("" + year).getAsJsonObject(region).getAsJsonObject("" + month).keySet().forEach(
-                dayKey -> System.out.println(climateObj.getAsJsonObject("" + year)
-                                                       .getAsJsonObject(region)
-                                                       .getAsJsonObject("" + month)
-                                                       .getAsJsonObject(dayKey)
-                                                       .get("saveDC").getAsInt())
-        );
+        output(year, month, region, threshold);
 
+    }
+
+    private static void output(int year, int month, String region, int threshold)
+    {
+        List<Integer> smallDCs = new ArrayList<>();
+        List<Integer> largeDCs = new ArrayList<>();
+
+        climateObj.getAsJsonObject("" + year).getAsJsonObject(region).getAsJsonObject("" + month).keySet().forEach(
+                dayKey ->
+                {
+                    int dc = climateObj.getAsJsonObject("" + year)
+                                       .getAsJsonObject(region)
+                                       .getAsJsonObject("" + month)
+                                       .getAsJsonObject(dayKey)
+                                       .get("saveDC").getAsInt();
+                    if (dc <= threshold) smallDCs.add(dc);
+                    else largeDCs.add(dc);
+                }
+        );
+        Collections.sort(largeDCs);
+        Collections.reverse(largeDCs);
+        largeDCs.forEach(dc -> System.out.print(dc + ", "));
+        System.out.println("\nDCs below " + threshold + ": " + smallDCs.size());
+        System.out.println("DCs over " + threshold + ": " + largeDCs.size());
     }
 
     private static void generateWeather(int year)
