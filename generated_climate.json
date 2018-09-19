@@ -1,5 +1,7228 @@
 {
-  "3: Temperate": {},
-  "2: Subarctic": {},
-  "1: Near Spine of the World": {}
+  "1488": {
+    "0": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": -10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 15
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 6
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": -12,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 23
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 19
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 19
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": -1,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 9
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": -11,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 22
+        },
+        "2: Subarctic": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 16
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": -9,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 17
+        },
+        "2: Subarctic": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 6
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 14
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 23
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 10
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 16
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 6
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": -12,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 23
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 13
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 8
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 21
+        },
+        "2: Subarctic": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 16
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 8
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": -11,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 25
+        },
+        "2: Subarctic": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": -11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 6
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 25
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 8
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": -9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 14
+        },
+        "2: Subarctic": {
+          "temperature": -5,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 16
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 13
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 9
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": -10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": -10,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 21
+        },
+        "2: Subarctic": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 19
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": -12,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 23
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": -11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": -10,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 21
+        },
+        "2: Subarctic": {
+          "temperature": -5,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 19
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 6
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": -10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 9
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": -12,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 20
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 16
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": -11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 19
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 17
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": -8,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 19
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 9
+        }
+      }
+    },
+    "1": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": -11,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 22
+        },
+        "2: Subarctic": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 11
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": -11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 18
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 7
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 17
+        },
+        "3: Temperate": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": -11,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 19
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "3: Temperate": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 18
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 20
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": -1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 12
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": -11,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 25
+        },
+        "2: Subarctic": {
+          "temperature": -10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 6
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 17
+        },
+        "3: Temperate": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 12
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 19
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 23
+        },
+        "3: Temperate": {
+          "temperature": -1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 12
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": -13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 18
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 6
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 17
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 5
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 18
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 17
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 11
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 18
+        },
+        "2: Subarctic": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 8
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 3
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 21
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 3
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 19
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 17
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 11
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 19
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 17
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": -9,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 17
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": -1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 12
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": -12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 17
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 8
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": -13,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 24
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": -2,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 10
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 10
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": -10,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 21
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 7
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": -13,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 24
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 26
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 11
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 18
+        },
+        "2: Subarctic": {
+          "temperature": -10,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 21
+        },
+        "3: Temperate": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 10
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 20
+        },
+        "2: Subarctic": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 15
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 6
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": -9,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 23
+        },
+        "2: Subarctic": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 8
+        }
+      }
+    },
+    "2": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 3
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 14
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 14
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 10
+        },
+        "3: Temperate": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 7
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 5
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 9
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 1
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 8
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 17
+        },
+        "2: Subarctic": {
+          "temperature": -5,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 22
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": -5,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 16
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 14
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 10
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 10
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 18
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 10
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 4
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": -5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 8
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": -4,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 11
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 5
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 9
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      }
+    },
+    "3": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 8
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "2: Subarctic": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 7
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 7
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": 3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 8
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": 1,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 3,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 15
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": 5,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 1
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 5
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 2
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": 0,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 15
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": 5,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 4
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "2: Subarctic": {
+          "temperature": 3,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": 0,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 1
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 1
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": 6,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 6
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 3
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": 3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 8
+        }
+      }
+    },
+    "4": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 4
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 10
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 1
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -6
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 0
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": 10,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 1
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 1
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "2: Subarctic": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -4
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -4
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 3
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 9
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": 5,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 10,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 9
+        },
+        "2: Subarctic": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": 6,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -1
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 9
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 13
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 1
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 4
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 1
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": 10,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      }
+    },
+    "5": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -4
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -7
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 0
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": -2
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -10
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -10
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -5
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -9
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -9
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -7
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -13
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": -1
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -13
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 15,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 16,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -4
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -9
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -10
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": -4
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -2
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 11,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -3
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": 10,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 1
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -7
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -10
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -11
+        },
+        "3: Temperate": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -2
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -13
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -10
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -10
+        },
+        "3: Temperate": {
+          "temperature": 16,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -2
+        },
+        "3: Temperate": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 0
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -7
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -11
+        },
+        "3: Temperate": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -8
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -5
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -4
+        }
+      }
+    },
+    "6": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -11
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -10
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -8
+        },
+        "2: Subarctic": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 16,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 1
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -14
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "2: Subarctic": {
+          "temperature": 20,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -15
+        },
+        "3: Temperate": {
+          "temperature": 20,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -9
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -10
+        },
+        "2: Subarctic": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -14
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -4
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -11
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": -5
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -11
+        },
+        "2: Subarctic": {
+          "temperature": 19,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": -5
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 18,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -7
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": 18,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -10
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -10
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": 18,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -10
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -14
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        },
+        "2: Subarctic": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -13
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -8
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 20,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -12
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": 16,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 20,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -9
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 3
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        },
+        "2: Subarctic": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -14
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 0
+        },
+        "2: Subarctic": {
+          "temperature": 20,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -12
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -3
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -14
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 20,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -9
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "2: Subarctic": {
+          "temperature": 19,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -11
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 0
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -14
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -8
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -10
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -6
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "2: Subarctic": {
+          "temperature": 15,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": 18,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -10
+        },
+        "2: Subarctic": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -11
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -3
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -2
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -9
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -10
+        }
+      }
+    },
+    "7": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -11
+        },
+        "3: Temperate": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -11
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -11
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "2: Subarctic": {
+          "temperature": 15,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -6
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -4
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -13
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -5
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "3: Temperate": {
+          "temperature": 20,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -15
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -14
+        },
+        "3: Temperate": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -5
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 18,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": -4
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -13
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": 17,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -10
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -13
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -1
+        },
+        "3: Temperate": {
+          "temperature": 16,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 0
+        },
+        "2: Subarctic": {
+          "temperature": 16,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -5
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 0
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "3: Temperate": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -11
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 20,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -15
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 20,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -12
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -9
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -6
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -14
+        },
+        "3: Temperate": {
+          "temperature": 20,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -9
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 18,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 18,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": -1
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -1
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": -4
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 16,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": 15,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 18,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -10
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -10
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -3
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "2: Subarctic": {
+          "temperature": 19,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -11
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": -3
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 0
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": 17,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -9
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -5
+        },
+        "3: Temperate": {
+          "temperature": 20,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -15
+        }
+      }
+    },
+    "8": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "3: Temperate": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -11
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -2
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -4
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 5
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 2
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -6
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -3
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 1
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -9
+        },
+        "3: Temperate": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "2: Subarctic": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": 9,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -7
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        },
+        "2: Subarctic": {
+          "temperature": 10,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 1
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -4
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -1
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -6
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -6
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -5
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -1
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -10
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 14,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -3
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 15,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -7
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": 10,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 4
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -5
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 4
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "2: Subarctic": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -1
+        },
+        "3: Temperate": {
+          "temperature": 16,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -8
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 1
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 14,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -6
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": 12,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": -1
+        },
+        "2: Subarctic": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        },
+        "3: Temperate": {
+          "temperature": 17,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -12
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": 6,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 10,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -3
+        }
+      }
+    },
+    "9": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "2: Subarctic": {
+          "temperature": 7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 9
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -1
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": 1,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 10
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 5
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -1
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 5
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": 1,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 1
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "2: Subarctic": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 11,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -6
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": 1,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -7
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -8
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "2: Subarctic": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 1
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 0
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": 1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 12,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -4
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": 6,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 5
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 1
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": -2
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 1
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 1
+        },
+        "3: Temperate": {
+          "temperature": 13,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      }
+    },
+    "10": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 19
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 16
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 16
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -4
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 3
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 13
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 18
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 12
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 1
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 19
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 4
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 2
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 9
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 3
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": 0,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 4
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -2
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 3
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 3
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 3
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 10,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -5
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 14
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 8
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": 2,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 9
+        },
+        "2: Subarctic": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 1
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 14
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 10
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 11
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 0
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "2: Subarctic": {
+          "temperature": 3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 9,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": -1
+        }
+      }
+    },
+    "11": {
+      "0": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 0
+        }
+      },
+      "1": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 10
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 7
+        }
+      },
+      "2": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "3": {
+        "1: Near Spine of the World": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 4
+        }
+      },
+      "4": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 6
+        }
+      },
+      "5": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 5
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 2
+        }
+      },
+      "6": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "7": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 7
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 1
+        }
+      },
+      "8": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -2
+        }
+      },
+      "9": {
+        "1: Near Spine of the World": {
+          "temperature": -5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      },
+      "10": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 12
+        }
+      },
+      "11": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 17
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 7
+        }
+      },
+      "12": {
+        "1: Near Spine of the World": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 8
+        }
+      },
+      "13": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "14": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 6
+        }
+      },
+      "15": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "2: Subarctic": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 14
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "16": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": -4,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 15
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 2
+        }
+      },
+      "17": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 13
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 3
+        }
+      },
+      "18": {
+        "1: Near Spine of the World": {
+          "temperature": -4,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 5,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 3
+        }
+      },
+      "19": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 8
+        },
+        "3: Temperate": {
+          "temperature": 2,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 6
+        }
+      },
+      "20": {
+        "1: Near Spine of the World": {
+          "temperature": -3,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 11
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 5
+        }
+      },
+      "21": {
+        "1: Near Spine of the World": {
+          "temperature": -7,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": 0,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 11
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 5
+        }
+      },
+      "22": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 13
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 4
+        },
+        "3: Temperate": {
+          "temperature": 6,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -1
+        }
+      },
+      "23": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 9
+        },
+        "2: Subarctic": {
+          "temperature": -5,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 22
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 0
+        }
+      },
+      "24": {
+        "1: Near Spine of the World": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 17
+        },
+        "2: Subarctic": {
+          "temperature": -2,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 13
+        },
+        "3: Temperate": {
+          "temperature": 8,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": -3
+        }
+      },
+      "25": {
+        "1: Near Spine of the World": {
+          "temperature": -4,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 12
+        },
+        "2: Subarctic": {
+          "temperature": 1,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "3: Temperate": {
+          "temperature": 3,
+          "wind": 2,
+          "precipitation": 1,
+          "saveDC": 11
+        }
+      },
+      "26": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": -5,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 10
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 1,
+          "precipitation": 1,
+          "saveDC": 4
+        }
+      },
+      "27": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 0,
+          "precipitation": 0,
+          "saveDC": 6
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 2,
+          "precipitation": 2,
+          "saveDC": 18
+        },
+        "3: Temperate": {
+          "temperature": 4,
+          "wind": 0,
+          "precipitation": 1,
+          "saveDC": 4
+        }
+      },
+      "28": {
+        "1: Near Spine of the World": {
+          "temperature": -1,
+          "wind": 1,
+          "precipitation": 2,
+          "saveDC": 15
+        },
+        "2: Subarctic": {
+          "temperature": -1,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 9
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 1
+        }
+      },
+      "29": {
+        "1: Near Spine of the World": {
+          "temperature": -8,
+          "wind": 1,
+          "precipitation": 0,
+          "saveDC": 16
+        },
+        "2: Subarctic": {
+          "temperature": -6,
+          "wind": 0,
+          "precipitation": 2,
+          "saveDC": 17
+        },
+        "3: Temperate": {
+          "temperature": 7,
+          "wind": 2,
+          "precipitation": 0,
+          "saveDC": 4
+        }
+      }
+    }
+  }
 }
