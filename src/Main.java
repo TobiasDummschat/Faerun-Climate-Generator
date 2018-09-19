@@ -32,7 +32,7 @@ public class Main
 
     private static Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
-    //Json format: {year: {month: {day: {"temperature": int, "wind": int, "precipitation": int, "saveDC": }}}}
+    //Json format: {year: {region: {month: {day: {"temperature": int, "wind": int, "precipitation": int, "saveDC": }}}}}
     private static JsonObject climateObj;
 
     public static void main(String[] args)
@@ -49,12 +49,12 @@ public class Main
 
         for (String month : MONTH_DESCRIPTIONS) System.out.println(month);
         System.out.println("Enter the current month: ");
-        int monthIndex = scanner.nextInt() - 1;
+        int month = scanner.nextInt();
 
         for (String region : REGION_DESCRIPTIONS) System.out.println(region);
 
         System.out.println("\nEnter current region:");
-        int regionIndex = scanner.nextInt() - 1;
+        String region = REGION_DESCRIPTIONS[scanner.nextInt() - 1];
 
 
     }
@@ -63,37 +63,37 @@ public class Main
     {
 
         JsonObject yearObj = new JsonObject();
-
-        for (int month = 1; month <= 12; month++)
+        for (int region = 1; region <= 3; region++)
         {
-            JsonObject monthObj = new JsonObject();
+            JsonObject regionObj = new JsonObject();
 
-            for (int day = 1; day <= 30; day++)
+            for (int month = 1; month <= 12; month++)
             {
-                JsonObject dayObj = new JsonObject();
+                JsonObject monthObj = new JsonObject();
 
-                for (int region = 1; region <= 3; region++)
+                for (int day = 1; day <= 30; day++)
                 {
+
+
                     int temperature = rollDie(8) + LOWEST_TEMPS[region - 1][month - 1];
                     int windStrength = parseWeatherD20(rollDie(20));
                     int precipitationStrength = parseWeatherD20(rollDie(20));
 
                     int saveDC = 5 - temperature + 3 * (windStrength + precipitationStrength);
 
-                    JsonObject regionObj = new JsonObject();
+                    JsonObject dayObj = new JsonObject();
 
-                    regionObj.addProperty("temperature", temperature);
-                    regionObj.addProperty("wind", windStrength);
-                    regionObj.addProperty("precipitation", precipitationStrength);
-                    regionObj.addProperty("saveDC", saveDC);
+                    dayObj.addProperty("temperature", temperature);
+                    dayObj.addProperty("wind", windStrength);
+                    dayObj.addProperty("precipitation", precipitationStrength);
+                    dayObj.addProperty("saveDC", saveDC);
 
-                    dayObj.add(REGION_DESCRIPTIONS[region - 1], regionObj);
+                    monthObj.add("" + day, dayObj);
                 }
-
-                monthObj.add("" + day, dayObj);
+                regionObj.add("" + month, monthObj);
             }
 
-            yearObj.add("" + month, monthObj);
+            yearObj.add(REGION_DESCRIPTIONS[region - 1], regionObj);
         }
 
         climateObj.add("" + year, yearObj);
