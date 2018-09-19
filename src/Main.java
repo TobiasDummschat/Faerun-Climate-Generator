@@ -56,6 +56,15 @@ public class Main
         System.out.println("\nEnter current region:");
         String region = REGION_DESCRIPTIONS[scanner.nextInt() - 1];
 
+        //TODO actually output the wanted information
+
+        climateObj.getAsJsonObject("" + year).getAsJsonObject(region).getAsJsonObject("" + month).keySet().forEach(
+                dayKey -> System.out.println(climateObj.getAsJsonObject("" + year)
+                                                       .getAsJsonObject(region)
+                                                       .getAsJsonObject("" + month)
+                                                       .getAsJsonObject(dayKey)
+                                                       .get("saveDC").getAsInt())
+        );
 
     }
 
